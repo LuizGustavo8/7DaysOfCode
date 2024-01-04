@@ -1,7 +1,7 @@
 
 
 <!-- Title -->
-<h1 align="center" style="color: #ba6771;">
+<h1 style="color: #ba6771;">
 Desafio 7 Days of Code de Python Pandas by Alura
 </h1>
 
