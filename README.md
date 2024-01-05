@@ -27,6 +27,6 @@ Chegando quase no final, você precisará calcular a quantidade de empréstimos 
 No sétimo e último dia do desafio, você precisará criar uma tabela com as diferenças percentuais de empréstimos entre três períodos diferentes. Além disso, irá criar o HTML da tabela obtida, a fim de enviá-lo à equipe de Front-end. Você irá fechar com chave de ouro!
 
 
-<h2 style="color: #ba6771;">Para mais informações: https://7daysofcode.io/matricula/pand</h2>
+<h2 style="color: #ba6771;">Para mais informações: https://7daysofcode.io/matricula/pandas</h2>
 
 
